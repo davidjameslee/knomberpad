@@ -1,8 +1,6 @@
-# knomberpad
-Custom numberpad peripheral
-
 TODOS
 ----------------------
+Cleanup libraries
 Mounting holes
 Versioning/Branding
 Encoder button? (Different foot print)
