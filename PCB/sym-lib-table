@@ -2,4 +2,5 @@
   (lib (name keebio)(type Legacy)(uri C:/Users/dlee1/Documents/KiCad/Knomberpad/Libraries/keebio-components/keebio.lib)(options "")(descr ""))
   (lib (name ai03)(type Legacy)(uri "C:/Users/dlee1/Documents/KiCad/Knomberpad/Libraries/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
   (lib (name ai03_switch)(type Legacy)(uri "C:/Users/dlee1/Documents/KiCad/Knomberpad/Libraries/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name Knomberpad-rescue)(type Legacy)(uri ${KIPRJMOD}/Knomberpad-rescue.lib)(options "")(descr "")(disabled))
 )

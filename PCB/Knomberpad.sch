@@ -7,7 +7,7 @@ encoding utf-8
 Sheet 1 1
 Title "Knomberpad"
 Date "2020-11-19"
-Rev "1.0.0"
+Rev "2.0.0-beta"
 Comp ""
 Comment1 ""
 Comment2 ""
